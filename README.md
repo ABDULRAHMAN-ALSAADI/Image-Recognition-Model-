@@ -1,5 +1,4 @@
 # 🐾 Animal Classifier with Google Teachable Machine
-A Small AI Model That Predict If The Photo You Upload Is a Cat, Dog, Lion or Tigger
 This project is a simple and interactive image classification system trained using Google Teachable Machine. It can recognize four types of animals: cats, dogs, lions, and tigers, using images sized 224x224 pixels.
 
 The model was exported as a .h5 file and tested using Python + TensorFlow in Google Colab with a user-friendly image upload interface.
