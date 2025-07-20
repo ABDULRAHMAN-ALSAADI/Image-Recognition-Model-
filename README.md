@@ -1,7 +1,9 @@
 # 🐾 Animal Classifier with Google Teachable Machine
-This project is a simple and interactive image classification system trained using Google Teachable Machine. It can recognize four types of animals: cats, dogs, lions, and tigers, using images sized 224x224 pixels.
 
-The model was exported as a .h5 file and tested using Python + TensorFlow in Google Colab with a user-friendly image upload interface.
+## 📚 How I Built It
+
+I built this animal classifier using Google Teachable Machine, where I trained a custom image recognition model with pictures of cats, dogs, lions, and tigers, each resized to 224×224 pixels. After training, I exported the model (.h5 format) and used TensorFlow/Keras in Google Colab to load the model and make predictions. I implemented an interactive Python script that lets users upload an image and get real-time predictions along with confidence scores.
+
 
 ### 🚀 Features:
 
