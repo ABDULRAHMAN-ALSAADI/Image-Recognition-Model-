@@ -83,11 +83,17 @@ while True:
 
     print("\n🔁 Ready for the next image. Upload again when ready.")
 
+```
+
+<img width="1920" height="927" alt="HOW IT WORK 0" src="https://github.com/user-attachments/assets/e263d463-2a60-415d-abc7-bb5307b0b775" />
+
+<img width="1920" height="935" alt="HOW IT WORK 1" src="https://github.com/user-attachments/assets/3b4d48d2-8e20-41b2-b52d-90425bdc549e" />
 
 
+<img width="1920" height="930" alt="HOW IT WORK 2" src="https://github.com/user-attachments/assets/9c39eb32-53fd-4db8-8dc8-e2c3d65ff91f" />
 
 
-
+<img width="1920" height="926" alt="HOW IT WORK 3" src="https://github.com/user-attachments/assets/05a6712e-6526-48f1-a0f5-8dc0d761bd3b" />
 
 
 
